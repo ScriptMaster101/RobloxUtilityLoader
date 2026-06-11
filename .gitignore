@@ -1,0 +1,4 @@
+﻿RobloxUtilityLoader/
+tools/
+*.pyc
+__pycache__/
